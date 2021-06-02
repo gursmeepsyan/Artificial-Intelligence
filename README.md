@@ -1,4 +1,4 @@
-![alt-text](https://github.com/gursmeepsyan/Artificial-Intelligence/blob/main/Scratch%20your%20ear.%20-%20Imgur.gif)
+<img src ="https://github.com/gursmeepsyan/Artificial-Intelligence/blob/main/Scratch%20your%20ear.%20-%20Imgur.gif" width =200>
 
 # Artificial-Intelligence - SFU CMPT 310 (adapted from Berkeley-CS188)
 
