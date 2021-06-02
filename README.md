@@ -1,4 +1,4 @@
-# Artificial-Intelligence - Berkeley-CS188
+# Artificial-Intelligence - SFU CMPT 310 (adapted from Berkeley-CS188)
 
 Learned about search problems (A*, CSP, minimax), reinforcement learning, bayes nets, hidden markov models, and machine learning. Completed all homeworks, projects, midterms, and finals in 5 weeks.
 
