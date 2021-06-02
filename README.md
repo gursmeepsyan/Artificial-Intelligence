@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="tnThXZT"  ><a href="//imgur.com/tnThXZT">Scratch your ear.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 # Artificial-Intelligence - SFU CMPT 310 (adapted from Berkeley-CS188)
 
